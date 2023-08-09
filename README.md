@@ -12,5 +12,5 @@
 ### On GalleryView, Select Picture for a Zoomed-In View
 <img width="302" alt="Screen Shot 2023-08-05 at 1 28 21 PM" src="https://github.com/nsb229/TheRestaurantApp/assets/126029768/62eb59c1-d41b-4566-82b0-6f2a05875f59">
 
-#### How To Open This Project:
-Go to 'Open with Xcode.' Navigate to MainView, and click on the mobile screen to navigate through the app. 
+#### To Open This Project:
+Access the project by going under the green Code button and clicking Open with XCode. To Run: ⌘R ( Command + R )
